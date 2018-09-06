@@ -1,0 +1,88 @@
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Domain.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Moq.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Ninject.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\WebActivatorEx.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\WebUI.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Domain.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\WebUI.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\WebUI.dll.config
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Moq.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Ninject.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\Domain.dll.config
+C:\Users\Roma Gritsyk\source\repos\BookStore\UnitTest\bin\Debug\EntityFramework.xml
+C:\Project\BookStore\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Project\BookStore\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Project\BookStore\UnitTest\obj\Debug\UnitTest.dll
+C:\Project\BookStore\UnitTest\obj\Debug\UnitTest.pdb
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Project\BookStore\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Project\BookStore\UnitTest\bin\Debug\UnitTest.dll
+C:\Project\BookStore\UnitTest\bin\Debug\UnitTest.pdb
+C:\Project\BookStore\UnitTest\bin\Debug\Domain.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Moq.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Ninject.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Ninject.Web.Common.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Ninject.Web.Mvc.dll
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.Helpers.dll
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Project\BookStore\UnitTest\bin\Debug\WebActivatorEx.dll
+C:\Project\BookStore\UnitTest\bin\Debug\WebUI.dll
+C:\Project\BookStore\UnitTest\bin\Debug\EntityFramework.dll
+C:\Project\BookStore\UnitTest\bin\Debug\Domain.pdb
+C:\Project\BookStore\UnitTest\bin\Debug\Domain.dll.config
+C:\Project\BookStore\UnitTest\bin\Debug\WebUI.pdb
+C:\Project\BookStore\UnitTest\bin\Debug\WebUI.dll.config
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Project\BookStore\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Project\BookStore\UnitTest\bin\Debug\Moq.xml
+C:\Project\BookStore\UnitTest\bin\Debug\Ninject.xml
+C:\Project\BookStore\UnitTest\bin\Debug\Ninject.Web.Common.xml
+C:\Project\BookStore\UnitTest\bin\Debug\Ninject.Web.Mvc.xml
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.Helpers.xml
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Project\BookStore\UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Project\BookStore\UnitTest\bin\Debug\EntityFramework.xml

@@ -1,0 +1,76 @@
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\WebUI.dll.config
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\WebUI.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\WebUI.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Domain.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Moq.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Ninject.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Razor.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Webpages.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\WebActivatorEx.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Domain.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Moq.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Ninject.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Razor.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Webpages.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\obj\Debug\WebUI.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\EntityFramework.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\Domain.dll.config
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\EntityFramework.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Project\BookStore\WebUI\bin\WebUI.dll.config
+C:\Project\BookStore\WebUI\bin\WebUI.dll
+C:\Project\BookStore\WebUI\bin\WebUI.pdb
+C:\Project\BookStore\WebUI\bin\Domain.dll
+C:\Project\BookStore\WebUI\bin\EntityFramework.dll
+C:\Project\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Project\BookStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\BookStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\BookStore\WebUI\bin\Moq.dll
+C:\Project\BookStore\WebUI\bin\Ninject.dll
+C:\Project\BookStore\WebUI\bin\Ninject.Web.Common.dll
+C:\Project\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Project\BookStore\WebUI\bin\System.Web.Helpers.dll
+C:\Project\BookStore\WebUI\bin\System.Web.Mvc.dll
+C:\Project\BookStore\WebUI\bin\System.Web.Razor.dll
+C:\Project\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Project\BookStore\WebUI\bin\System.Web.Webpages.dll
+C:\Project\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Project\BookStore\WebUI\bin\WebActivatorEx.dll
+C:\Project\BookStore\WebUI\bin\Domain.pdb
+C:\Project\BookStore\WebUI\bin\Domain.dll.config
+C:\Project\BookStore\WebUI\bin\EntityFramework.xml
+C:\Project\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Project\BookStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\BookStore\WebUI\bin\Moq.xml
+C:\Project\BookStore\WebUI\bin\Ninject.xml
+C:\Project\BookStore\WebUI\bin\Ninject.Web.Common.xml
+C:\Project\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Project\BookStore\WebUI\bin\System.Web.Razor.xml
+C:\Project\BookStore\WebUI\bin\System.Web.Webpages.xml
+C:\Project\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Project\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Project\BookStore\WebUI\bin\System.Web.Helpers.xml
+C:\Project\BookStore\WebUI\bin\System.Web.Mvc.xml
+C:\Project\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Project\BookStore\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\Project\BookStore\WebUI\obj\Debug\WebUI.dll
+C:\Project\BookStore\WebUI\obj\Debug\WebUI.pdb

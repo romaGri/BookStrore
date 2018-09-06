@@ -1,0 +1,48 @@
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\Domain.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\obj\Debug\Domain.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\obj\Debug\Domain.pdb
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\Domain.dll.config
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Roma Gritsyk\source\repos\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project\BookStore\Domain\bin\Debug\Domain.dll.config
+C:\Project\BookStore\Domain\bin\Debug\Domain.dll
+C:\Project\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Project\BookStore\Domain\bin\Debug\EntityFramework.dll
+C:\Project\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Project\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Project\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Project\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+C:\Project\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Project\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Project\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Project\BookStore\Domain\bin\Debug\EntityFramework.xml
+C:\Project\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Project\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Project\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+C:\Project\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Project\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Project\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Project\BookStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Project\BookStore\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Project\BookStore\Domain\obj\Debug\Domain.dll
+C:\Project\BookStore\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,4 @@
+﻿ALTER TABLE Books
+ADD
+		ImageData			VARBINARY(MAX) NULL,
+		ImageMimeTepe  VARCHAR(50) NULL
